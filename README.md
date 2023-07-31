@@ -1,6 +1,7 @@
 # Pacman Game using Flutter
 A fun and interactive implementation of the classic Pacman game built with Flutter. This project aims to recreate the gameplay and visual elements of the iconic Pacman arcade game using the power of Flutter, an open-source UI software development kit created by Google.
 
+
 ## Features
  - Faithful recreation of the original Pacman gameplay.
  - Gesture Detectors for easy navigation.
