@@ -14,7 +14,7 @@ Pacman Gameplay
 1. Ensure you have [Flutter](https://docs.flutter.dev/) installed and set up on your machine.
 2.  Clone this repository to your local machine using:
 ```
-git clone 
+git clone https://github.com/shreeramkedlaya/pacman.git
 ```
 3. Navigate to the project directory:
  ```
@@ -30,8 +30,8 @@ Connect your device or use an emulator, then run the app using the following com
 ``````
 flutter run
 ``````
-<!-- Screenshots
-Screenshot 1
+Screenshots
+<!-- Screenshot 1
 Screenshot 2
 Screenshot 3 -->
 
