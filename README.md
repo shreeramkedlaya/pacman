@@ -30,10 +30,11 @@ Connect your device or use an emulator, then run the app using the following com
 ``````
 flutter run
 ``````
-Screenshots
-<!-- Screenshot 1
-Screenshot 2
-Screenshot 3 -->
+## Screenshots
+![](screenshots/download.png)
+![Pacman Gameplay](screenshots/pacman.gif)
+![](screenshots/images.png)
+
 
 ## Contributing
 
@@ -46,8 +47,7 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
  - Submit a pull request.
 ## Credits
 
-The original Pacman game was created by Namco and released in 1980. This project is a fan-made recreation using Flutter and was developed by Your Name.
-
+The original Pacman game was created by Namco and released in 1980. This project is entirely recreated using Flutter.
 ## Disclaimer
 This project is intended for educational purposes only and is not affiliated with or endorsed by Namco or any other related entities.
 
